@@ -4,6 +4,6 @@ Lisp Augmented Style Sheets
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/Shinmera/LASS.git |
-| commit  | 1f2418d                                  |
+| commit  | 67bedbc                                  |
 | systems | lass                                     |
 |---------+------------------------------------------|
